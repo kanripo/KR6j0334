@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂勝初瑜伽經中略出大樂金剛薩埵念誦儀
+#+DATE: 2015-08-30 20:30:26.294413
+#+PROPERTY: JUAN 0
